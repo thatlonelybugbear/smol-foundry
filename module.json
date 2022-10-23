@@ -5,13 +5,10 @@
   "description": "",
   "version": "10.0.1",
   "library": "false",
-  "manifestPlusVersion": "1.0.0",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
   "compatibility": {
       "minimum": 9,
-      "verified":9,
-      "maximum":10.288,
+      "verified": 9,
+      "maximum": "10.288",
   },
   "authors": [
     {
@@ -21,10 +18,10 @@
     }
   ],
   "scripts": [
-    "/scripts/condenser.js"
+    "scripts/condenser.js"
   ],
   "styles": [
-    "/styles/condenser.css"
+    "styles/condenser.css"
   ],
   "relationships": {},
   "url": "https://github.com/thatlonelybugbear/smol-foundry",
