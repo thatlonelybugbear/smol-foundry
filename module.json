@@ -6,7 +6,7 @@
   "library": "false",
   "compatibility": {
       "minimum": 9,
-      "verified": 9,
+      "verified": 10,
       "maximum": 10,
   },
   "authors": [
@@ -19,9 +19,7 @@
   "scripts": [
     "scripts/condenser.js"
   ],
-  "styles": [
-    "styles/condenser.css"
-  ],
+  "styles": [],
   "packs":[],
   "relationships": {},
   "url": "https://github.com/thatlonelybugbear/smol-foundry",
