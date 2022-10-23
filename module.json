@@ -1,6 +1,5 @@
 {
   "id": "smol-foundry",
-  "name": "smol-foundry",
   "title": "smol-foundry",
   "description": "",
   "version": "10.0.1",
@@ -8,7 +7,7 @@
   "compatibility": {
       "minimum": 9,
       "verified": 9,
-      "maximum": "10.288",
+      "maximum": 10,
   },
   "authors": [
     {
@@ -23,6 +22,7 @@
   "styles": [
     "styles/condenser.css"
   ],
+  "packs":[],
   "relationships": {},
   "url": "https://github.com/thatlonelybugbear/smol-foundry",
   "manifest": "https://github.com/thatlonelybugbear/smol-foundry/releases/latest/download/module.json",
