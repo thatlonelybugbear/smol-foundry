@@ -1,13 +1,11 @@
 {
   "id": "smol-foundry",
-  "title": "smol-foundry",
+  "title": "Smol Foundry",
   "description": "",
   "version": "10.0.1",
-  "library": "false",
   "compatibility": {
       "minimum": 9,
       "verified": 10,
-      "maximum": 10,
   },
   "authors": [
     {
@@ -16,10 +14,12 @@
       "discord": "Kandashi (He/Him)#6698"
     }
   ],
-  "scripts": [
-    "scripts/condenser.js"
+  "esmodules": [
+    "/scripts/condenser.js"
   ],
   "url": "https://github.com/thatlonelybugbear/smol-foundry",
   "manifest": "https://github.com/thatlonelybugbear/smol-foundry/releases/latest/download/module.json",
-  "download": "https://github.com/thatlonelybugbear/smol-foundry/releases/download/10.0.1/module.zip"
+  "download": "https://github.com/thatlonelybugbear/smol-foundry/releases/latest/download/module.zip",
+  "name": "smol-foundry",
+  "minimumCoreVersion": "9"
 }
