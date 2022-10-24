@@ -19,9 +19,6 @@
   "scripts": [
     "scripts/condenser.js"
   ],
-  "styles": [],
-  "packs":[],
-  "relationships": {},
   "url": "https://github.com/thatlonelybugbear/smol-foundry",
   "manifest": "https://github.com/thatlonelybugbear/smol-foundry/releases/latest/download/module.json",
   "download": "https://github.com/thatlonelybugbear/smol-foundry/releases/download/10.0.1/module.zip"
