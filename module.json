@@ -2,7 +2,7 @@
     "id": "smol-foundry",
     "title": "Smol Foundry",
     "description": "Make your Foundry ... sidebar entities smaller",
-    "version": "10.0.1",
+    "version": "10.0.2",
     "compatibility": {
         "minimum": 10,
         "verified": 10,
@@ -19,8 +19,6 @@
       "/scripts/condenser.js"
     ],
     "url": "https://github.com/thatlonelybugbear/smol-foundry",
-    "manifest": "https://raw.githubusercontent.com/thatlonelybugbear/smol-foundry/main/module.json",
-    "download": "https://github.com/thatlonelybugbear/smol-foundry/archive/main.zip",
-    "name": "smol-foundry",
-    "minimumCoreVersion": "9"
-  }
+    "manifest": "https://github.com/thatlonelybugbear/smol-foundry/releases/download/10.0.2/module.json",
+    "download": "https://github.com/thatlonelybugbear/smol-foundry/releases/download/10.0.2/module.zip",
+}
